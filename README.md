@@ -12,6 +12,8 @@ the main Purpose to show simple examples for  git training demo.
 
 ## Deployment
 
-
+Deploy my simple project .
 
 ## How to contribute
+
+Know How to contribute your work.
