@@ -17,3 +17,7 @@ Deploy my simple project .
 ## How to contribute
 
 Know How to contribute your work.
+
+## Copyright
+
+2024 Copyright git training.
