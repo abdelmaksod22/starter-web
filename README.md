@@ -16,7 +16,7 @@ Deploy my simple project .
 
 ## How to contribute
 
-Know How to contribute your work.
+please fork this repository and pull the issuse reviews.
 
 ## Copyright
 
