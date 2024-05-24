@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-this is a simple project to show how to use git and github.another line for rebase section. 
+this is a simple project to show how to use git and github.another line for rebase section, adding another line for myfeature branch.
 
 ## Introduction
 
