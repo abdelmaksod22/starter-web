@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-this is a simple project to show how to use git and github.
+this is a simple project to show how to use git and github.another line for rebase section. 
 
 ## Introduction
 
