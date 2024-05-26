@@ -5,6 +5,7 @@ this is a simple project to show how to use git and github.another line for reba
 ## Introduction
 
 this example to show diffrent parts of git repository and various command using web project.
+edit for stash command.
 
 ## Purpose
 
