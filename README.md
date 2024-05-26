@@ -20,4 +20,4 @@ please fork this repository and pull the issuse reviews.
 
 ## Copyright
 
-2024 Copyright git training.
+2024 Copyright git training.rights resved.
